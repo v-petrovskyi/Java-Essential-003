@@ -9,6 +9,5 @@ public class Main {
         System.out.println(ship);
         System.out.println(car);
         System.out.println(plane);
-// done
     }
 }
